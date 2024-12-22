@@ -14,7 +14,7 @@
         <div class="container">
         <?php echo form_open("auth/login", 'id="form-login" class="form-signin"');?>   
             <fieldset class="loginform">		
-            <img src="../images/login-logo.png" alt="TranSoft"><div class="banner-img">
+            <img src="../assets/images/login-logo.png" alt="TranSoft"><div class="banner-img">
             <hr>
             <div class="control-group">
                 <div class="controls">

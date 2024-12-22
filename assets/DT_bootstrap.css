@@ -16,7 +16,7 @@ div.dataTables_filter label {
 }
 
 div.dataTables_filter input[type="text"] {
-    background: #fff url('../images/filtro.png') no-repeat 6px center;
+    background: #fff url('../assets/images/filtro.png') no-repeat 6px center;
     padding: 4px 0 4px 28px;
 }
 

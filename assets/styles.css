@@ -1,12 +1,12 @@
 /** Home Page **/
 body {
     padding-top: 0;
-    background-image: url('../images/body-bg.png');
+    background-image: url('../assets/images/body-bg.png');
 }
 
 body#login {
     padding-top: 0;
-    background-image: url('../images/bg.png');
+    background-image: url('../assets/images/bg.png');
 }
 
 @media (min-width: 979px){
@@ -33,7 +33,7 @@ body.reporte {
 
 .banner .banner-img{  
   background-color: #fff;
-  background-image: url('../images/header.png');
+  background-image: url('../assets/images/header.png');
   height: 80px;
 }
 
@@ -55,7 +55,7 @@ body.reporte {
   margin-left: 20px;
   width: 130px;
   height: 75px;
-  background-image: url('../images/logo.png');
+  background-image: url('../assets/images/logo.png');
 }
 
 /** Login Page **/
